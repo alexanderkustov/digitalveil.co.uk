@@ -26,9 +26,8 @@ body {
 .cover {
     background-image: url(ocean.jpg);
     background-size: cover !important;
-    background-color: black;
+    background-color: #000908;
 }
-
 
 .bg-left {
     margin: 0;
@@ -44,11 +43,11 @@ body {
 }
 
 .b--white {
-    border-color: #fff;
+    border-color: #98e1d0;;
 }
 
 .b--white-90 {
-    border-color: rgba(255, 255, 255, .9);
+    border-color: #98e1d0;
 }
 
 .b--blue {
@@ -143,7 +142,7 @@ body {
 }
 
 .white {
-    color: #fff;
+    color: #98e1d0;;
 }
 
 .bg-black-80 {
@@ -313,3 +312,12 @@ body {
         font-size: 3rem;
     }
 }
+
+.teal-80{
+  color: #98e1d0;
+}
+
+.teal-90{
+ color: #98e1d0;
+}
+
